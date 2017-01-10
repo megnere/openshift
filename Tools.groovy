@@ -1,5 +1,5 @@
 #!groovy
 
-def call(context){
+def call(){
 		echo "Inside tools.groovy"
 }
