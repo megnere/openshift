@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 //import Tools
 node {
     echo "Not cool stuff"
